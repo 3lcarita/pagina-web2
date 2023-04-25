@@ -1,0 +1,23 @@
+.bg{
+    background: url(../img/fondo.jpg);
+}
+.col{
+    margin-top: 10%;
+    margin-bottom: 4%;
+    margin-left: 8%;
+    
+}
+#brand-name{
+    float:right;
+    margin-top: 5px;
+}
+.card{
+    border-radius: 15px;}
+
+div.card{
+    border-radius: 20px;
+}
+a.btn.btn-primary{
+    background-color:red;
+    border-radius: 15px;
+}
